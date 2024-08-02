@@ -42,7 +42,7 @@ After CRC has started, there is no reason (yet) to sign in. Immediately stop CRC
 ### Resize the VM
 Now, add 75GB to the VM by running the makebig script:  
 
-`./makebig.sh`
+[`./makebig.sh`](https://github.com/redhat-developer-demos/kubevirt-crc-windows-tutorial/blob/master/makebig.sh)
 
 
 
